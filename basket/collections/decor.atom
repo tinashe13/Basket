@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://basket/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://basket/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://basket/collections/decor.atom"/>
+  <title>Sol’ace</title>
+  <updated>2021-10-13T14:04:48-04:00</updated>
+  <author>
+    <name>Sol’ace</name>
+  </author>
+  <entry>
+    <id>https://basket/products/7327016354006</id>
+    <published>2021-10-13T14:04:48-04:00</published>
+    <updated>2021-10-13T14:04:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://basket/products/laqcua-candleholder"/>
+    <title>Laqcua Candleholder</title>
+    <s:type></s:type>
+    <s:vendor>solacs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0605/2062/8438/products/DECORH1.jpg?v=1634164690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>solacs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1399.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Iron</s:tag>
+    <s:variant>
+      <id>https://basket/products/7327016354006</id>
+      <title>10&quot;-12&quot;</title>
+      <s:price currency="CAD">1399.00</s:price>
+      <s:sku>LAC-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327016354006</id>
+      <title>12&quot;-16&quot;</title>
+      <s:price currency="CAD">1399.00</s:price>
+      <s:sku>LAC-REG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327016354006</id>
+      <title>14&quot;-20&quot;</title>
+      <s:price currency="CAD">1399.00</s:price>
+      <s:sku>LAC-FA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327016354006</id>
+      <title>20&quot;-28&quot;</title>
+      <s:price currency="CAD">1399.00</s:price>
+      <s:sku>LAC-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://basket/products/7327015403734</id>
+    <published>2021-10-13T14:01:00-04:00</published>
+    <updated>2021-10-13T14:01:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://basket/products/sanbege-ceramic"/>
+    <title>Sanbege Ceramic</title>
+    <s:type></s:type>
+    <s:vendor>solacs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0605/2062/8438/products/DECORC1.jpg?v=1634164711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>solacs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ceramic</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:variant>
+      <id>https://basket/products/7327015403734</id>
+      <title>10&quot;-12&quot;</title>
+      <s:price currency="CAD">2599.00</s:price>
+      <s:sku>SANB-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327015403734</id>
+      <title>12&quot;-16&quot;</title>
+      <s:price currency="CAD">2599.00</s:price>
+      <s:sku>SANB-REG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327015403734</id>
+      <title>14&quot;-20&quot;</title>
+      <s:price currency="CAD">2599.00</s:price>
+      <s:sku>SANB-FA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327015403734</id>
+      <title>20&quot;-28&quot;</title>
+      <s:price currency="CAD">2599.00</s:price>
+      <s:sku>SANB-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://basket/products/7327014748374</id>
+    <published>2021-10-13T13:53:38-04:00</published>
+    <updated>2021-10-13T13:53:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://basket/products/divit-sphere"/>
+    <title>Divit Sphere</title>
+    <s:type></s:type>
+    <s:vendor>solacs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0605/2062/8438/products/DECORD1_5d7da8c8-e8fc-4266-9078-a44629fcc89f.jpg?v=1634164475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>solacs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ceramic</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:variant>
+      <id>https://basket/products/7327014748374</id>
+      <title>10&quot;-10&quot;</title>
+      <s:price currency="CAD">1899.00</s:price>
+      <s:sku>DIVS-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327014748374</id>
+      <title>12&quot;-12&quot;</title>
+      <s:price currency="CAD">1899.00</s:price>
+      <s:sku>DIVS-REG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327014748374</id>
+      <title>18&quot;-18&quot;</title>
+      <s:price currency="CAD">1899.00</s:price>
+      <s:sku>DIVS-FA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327014748374</id>
+      <title>20&quot;-20&quot;</title>
+      <s:price currency="CAD">1899.00</s:price>
+      <s:sku>DIVS-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://basket/products/7327013109974</id>
+    <published>2021-10-13T13:47:53-04:00</published>
+    <updated>2021-10-13T13:47:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://basket/products/fraxinus-dashe"/>
+    <title>Fraxinus Dashe</title>
+    <s:type></s:type>
+    <s:vendor>solacs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0605/2062/8438/products/DECORB1_3e0e173b-c5e4-4031-a150-89f490946fff.jpg?v=1634164494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>solacs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://basket/products/7327013109974</id>
+      <title>10&quot;-12&quot;</title>
+      <s:price currency="CAD">1899.00</s:price>
+      <s:sku>FRX-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327013109974</id>
+      <title>12&quot;-16&quot;</title>
+      <s:price currency="CAD">1899.00</s:price>
+      <s:sku>FRX-REG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327013109974</id>
+      <title>14&quot;-20&quot;</title>
+      <s:price currency="CAD">1899.00</s:price>
+      <s:sku>FRX-FA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327013109974</id>
+      <title>20&quot;-28&quot;</title>
+      <s:price currency="CAD">1899.00</s:price>
+      <s:sku>FRX-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://basket/products/7327012716758</id>
+    <published>2021-10-13T13:42:46-04:00</published>
+    <updated>2021-10-13T13:42:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://basket/products/century-dashe"/>
+    <title>Century Dashe</title>
+    <s:type></s:type>
+    <s:vendor>solacs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0605/2062/8438/products/DECORA1.jpg?v=1634164448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>solacs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://basket/products/7327012716758</id>
+      <title>10&quot;-12&quot;</title>
+      <s:price currency="CAD">1799.00</s:price>
+      <s:sku>CENT-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327012716758</id>
+      <title>12&quot;-16&quot;</title>
+      <s:price currency="CAD">1799.00</s:price>
+      <s:sku>CENT-REG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327012716758</id>
+      <title>14&quot;-20&quot;</title>
+      <s:price currency="CAD">1799.00</s:price>
+      <s:sku>CENT-FA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327012716758</id>
+      <title>20&quot;-28&quot;</title>
+      <s:price currency="CAD">1799.00</s:price>
+      <s:sku>CENT-BIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://basket/products/7327011373270</id>
+    <published>2021-10-13T13:39:50-04:00</published>
+    <updated>2021-10-13T13:39:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://basket/products/iglenix-m-vase"/>
+    <title>Iglenix M Vase</title>
+    <s:type></s:type>
+    <s:vendor>solacs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0605/2062/8438/products/DECORE1_4914ad03-ee08-4bd6-9962-7fee2b7f1033.jpg?v=1634164516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>solacs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ceramic</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:variant>
+      <id>https://basket/products/7327011373270</id>
+      <title>10&quot;-12&quot;</title>
+      <s:price currency="CAD">2299.00</s:price>
+      <s:sku>IGM-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327011373270</id>
+      <title>12&quot;-16&quot;</title>
+      <s:price currency="CAD">2299.00</s:price>
+      <s:sku>IGM-REG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327011373270</id>
+      <title>14&quot;-20&quot;</title>
+      <s:price currency="CAD">2299.00</s:price>
+      <s:sku>IGM-FA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327011373270</id>
+      <title>20&quot;-28&quot;</title>
+      <s:price currency="CAD">2299.00</s:price>
+      <s:sku>IGM-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://basket/products/7327009177814</id>
+    <published>2021-10-13T13:37:09-04:00</published>
+    <updated>2021-10-13T13:37:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://basket/products/iglenix-s-vase"/>
+    <title>Iglenix S Vase</title>
+    <s:type></s:type>
+    <s:vendor>solacs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0605/2062/8438/products/DECORF1.jpg?v=1634164640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>solacs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ceramic</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:variant>
+      <id>https://basket/products/7327009177814</id>
+      <title>10&quot;-12&quot;</title>
+      <s:price currency="CAD">2299.00</s:price>
+      <s:sku>IGS-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327009177814</id>
+      <title>12&quot;-16&quot;</title>
+      <s:price currency="CAD">2299.00</s:price>
+      <s:sku>IGS-REG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327009177814</id>
+      <title>14&quot;-20&quot;</title>
+      <s:price currency="CAD">2299.00</s:price>
+      <s:sku>IGS-FA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327009177814</id>
+      <title>20&quot;-28&quot;</title>
+      <s:price currency="CAD">2299.00</s:price>
+      <s:sku>IGS-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://basket/products/7327008260310</id>
+    <published>2021-10-13T13:28:14-04:00</published>
+    <updated>2021-10-13T13:28:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://basket/products/iglenix-vase"/>
+    <title>Iglenix Vase</title>
+    <s:type></s:type>
+    <s:vendor>solacs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0605/2062/8438/products/DECORG1.jpg?v=1634164659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>solacs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ceramic</s:tag>
+    <s:tag>Decor</s:tag>
+    <s:variant>
+      <id>https://basket/products/7327008260310</id>
+      <title>10&quot;-12&quot;</title>
+      <s:price currency="CAD">2299.00</s:price>
+      <s:sku>IG-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327008260310</id>
+      <title>12&quot;-16&quot;</title>
+      <s:price currency="CAD">2299.00</s:price>
+      <s:sku>IG-REG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327008260310</id>
+      <title>14&quot;-20&quot;</title>
+      <s:price currency="CAD">2299.00</s:price>
+      <s:sku>IG-FA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327008260310</id>
+      <title>20&quot;-28&quot;</title>
+      <s:price currency="CAD">2299.00</s:price>
+      <s:sku>IG-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

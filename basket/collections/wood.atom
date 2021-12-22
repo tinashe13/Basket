@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://basket/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://basket/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://basket/collections/wood.atom"/>
+  <title>Sol’ace</title>
+  <updated>2021-10-13T13:47:53-04:00</updated>
+  <author>
+    <name>Sol’ace</name>
+  </author>
+  <entry>
+    <id>https://basket/products/7327013109974</id>
+    <published>2021-10-13T13:47:53-04:00</published>
+    <updated>2021-10-13T13:47:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://basket/products/fraxinus-dashe"/>
+    <title>Fraxinus Dashe</title>
+    <s:type></s:type>
+    <s:vendor>solacs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0605/2062/8438/products/DECORB1_3e0e173b-c5e4-4031-a150-89f490946fff.jpg?v=1634164494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>solacs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://basket/products/7327013109974</id>
+      <title>10&quot;-12&quot;</title>
+      <s:price currency="CAD">1899.00</s:price>
+      <s:sku>FRX-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327013109974</id>
+      <title>12&quot;-16&quot;</title>
+      <s:price currency="CAD">1899.00</s:price>
+      <s:sku>FRX-REG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327013109974</id>
+      <title>14&quot;-20&quot;</title>
+      <s:price currency="CAD">1899.00</s:price>
+      <s:sku>FRX-FA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327013109974</id>
+      <title>20&quot;-28&quot;</title>
+      <s:price currency="CAD">1899.00</s:price>
+      <s:sku>FRX-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://basket/products/7327012716758</id>
+    <published>2021-10-13T13:42:46-04:00</published>
+    <updated>2021-10-13T13:42:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://basket/products/century-dashe"/>
+    <title>Century Dashe</title>
+    <s:type></s:type>
+    <s:vendor>solacs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0605/2062/8438/products/DECORA1.jpg?v=1634164448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>solacs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Decor</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://basket/products/7327012716758</id>
+      <title>10&quot;-12&quot;</title>
+      <s:price currency="CAD">1799.00</s:price>
+      <s:sku>CENT-SM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327012716758</id>
+      <title>12&quot;-16&quot;</title>
+      <s:price currency="CAD">1799.00</s:price>
+      <s:sku>CENT-REG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327012716758</id>
+      <title>14&quot;-20&quot;</title>
+      <s:price currency="CAD">1799.00</s:price>
+      <s:sku>CENT-FA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7327012716758</id>
+      <title>20&quot;-28&quot;</title>
+      <s:price currency="CAD">1799.00</s:price>
+      <s:sku>CENT-BIG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://basket/products/7326259249366</id>
+    <published>2021-10-12T08:38:05-04:00</published>
+    <updated>2021-10-12T08:38:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://basket/products/elen-wood-chair"/>
+    <title>Elen Wood Chair</title>
+    <s:type></s:type>
+    <s:vendor>solacs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0605/2062/8438/products/CHARC1.jpg?v=1634042319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>solacs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://basket/products/7326259249366</id>
+      <title>40x40</title>
+      <s:price currency="CAD">3900.00</s:price>
+      <s:sku>ELE-40X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7326259249366</id>
+      <title>80x80</title>
+      <s:price currency="CAD">3900.00</s:price>
+      <s:sku>ELE-80X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7326259249366</id>
+      <title>100x100</title>
+      <s:price currency="CAD">3900.00</s:price>
+      <s:sku>ELE-100X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7326259249366</id>
+      <title>122x122</title>
+      <s:price currency="CAD">3900.00</s:price>
+      <s:sku>ELE-122X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://basket/products/7326258692310</id>
+    <published>2021-10-12T08:33:47-04:00</published>
+    <updated>2021-10-12T08:33:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://basket/products/paola-wood-chair"/>
+    <title>Paola Wood Chair</title>
+    <s:type></s:type>
+    <s:vendor>solacs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0605/2062/8438/products/CHARB1.png?v=1634042160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>solacs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://basket/products/7326258692310</id>
+      <title>40x40</title>
+      <s:price currency="CAD">5900.00</s:price>
+      <s:sku>PAO-40X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7326258692310</id>
+      <title>80x80</title>
+      <s:price currency="CAD">5900.00</s:price>
+      <s:sku>PAO-80X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7326258692310</id>
+      <title>100x100</title>
+      <s:price currency="CAD">5900.00</s:price>
+      <s:sku>PAO-100X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7326258692310</id>
+      <title>122x122</title>
+      <s:price currency="CAD">5900.00</s:price>
+      <s:sku>PAO-122X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://basket/products/7326255218902</id>
+    <published>2021-10-12T08:14:33-04:00</published>
+    <updated>2021-10-12T08:14:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://basket/products/onyx-wood-chair"/>
+    <title>Onyx Wood Chair</title>
+    <s:type></s:type>
+    <s:vendor>solacs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0605/2062/8438/products/CHARA1.png?v=1634040897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>solacs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://basket/products/7326255218902</id>
+      <title>40x40</title>
+      <s:price currency="CAD">4699.00</s:price>
+      <s:sku>ON-40X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7326255218902</id>
+      <title>80x80</title>
+      <s:price currency="CAD">4699.00</s:price>
+      <s:sku>ON-80X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7326255218902</id>
+      <title>100x100</title>
+      <s:price currency="CAD">4699.00</s:price>
+      <s:sku>ON-100X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7326255218902</id>
+      <title>122x122</title>
+      <s:price currency="CAD">4699.00</s:price>
+      <s:sku>ON-122X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://basket/products/7325813997782</id>
+    <published>2021-10-11T14:53:14-04:00</published>
+    <updated>2021-10-11T14:53:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://basket/products/wood-chair"/>
+    <title>Matté Wood Chair</title>
+    <s:type></s:type>
+    <s:vendor>solacs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0605/2062/8438/products/CHARF1.png?v=1634038553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>solacs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chairs</s:tag>
+    <s:tag>Wood</s:tag>
+    <s:variant>
+      <id>https://basket/products/7325813997782</id>
+      <title>40x40</title>
+      <s:price currency="CAD">3900.00</s:price>
+      <s:sku>MTC-40X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7325813997782</id>
+      <title>80x80</title>
+      <s:price currency="CAD">3900.00</s:price>
+      <s:sku>MTC-80X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7325813997782</id>
+      <title>100x100</title>
+      <s:price currency="CAD">3900.00</s:price>
+      <s:sku>MTC-100X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://basket/products/7325813997782</id>
+      <title>122x122</title>
+      <s:price currency="CAD">3900.00</s:price>
+      <s:sku>MTC-122X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
