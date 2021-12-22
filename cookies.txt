@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+solace-store.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+solace-store.com	TRUE	/	FALSE	1999999999	_secure_session_id	4c90e59ac0b1b6c73f5691e37b4e4ebb
+solace-store.com	TRUE	/	FALSE	1999999999	cart_sig	789efa6e67df128c0f9aa523f2f7a63b
+solace-store.com	TRUE	/	FALSE	1999999999	_y	a1e45849-c6f4-45dc-b30f-cd0652063af3
+solace-store.com	TRUE	/	FALSE	1999999999	_s	d1daa3fb-eaad-4146-9d4c-f6f6a822a4aa
+solace-store.com	TRUE	/	FALSE	1999999999	_shopify_y	a1e45849-c6f4-45dc-b30f-cd0652063af3
+solace-store.com	TRUE	/	FALSE	1999999999	_shopify_s	d1daa3fb-eaad-4146-9d4c-f6f6a822a4aa
+solace-store.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+

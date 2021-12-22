@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://solace-store.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://solace-store.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://solace-store.com/blogs/news/tagged/featured.atom"/>
+  <title>Sol’ace - News</title>
+  <updated>2021-10-13T21:47:17-04:00</updated>
+  <author>
+    <name>Sol’ace</name>
+  </author>
+  <entry>
+    <id>https://solace-store.com/blogs/news/sarah-vaile-remixes-a-manhattan-pied-a-terre-for-a-new-chicago-apartment</id>
+    <published>2021-10-13T21:40:09-04:00</published>
+    <updated>2021-10-16T23:56:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://solace-store.com/blogs/news/sarah-vaile-remixes-a-manhattan-pied-a-terre-for-a-new-chicago-apartment"/>
+    <title>Manhattan Pied-à-terre for a new Chicago apartment</title>
+    <author>
+      <name>Daisy Stewaz</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<p>Interior designer Sarah Vaile remembers eyeing a New York City apartment—one with bold colors and a personality as distinct as its chic owner—in a 2014 issue of House Beautiful, and tucking it away for future design inspiration. Years later, in a serendipitous turn of events, the woman she’d seen in the magazine—a stylish figure now in her 30s—just moved to Chicago.</p><p><a class="read-more" href="https://solace-store.com/blogs/news/sarah-vaile-remixes-a-manhattan-pied-a-terre-for-a-new-chicago-apartment">More</a></p>]]>
+    </summary>
+  </entry>
+</feed>
